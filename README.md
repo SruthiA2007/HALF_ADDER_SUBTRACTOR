@@ -94,6 +94,7 @@ assign borrow= ( ~a & b);
 endmodule
 
 **RTL Schematic**
+
 HALF ADDER
 
 ![Screenshot 2025-04-22 220136](https://github.com/user-attachments/assets/faf0db6e-bbc5-4327-bb3a-b8ab2289cfec)
@@ -104,6 +105,7 @@ HALF SUBRACTOR
 
 
 **Output/TIMING Waveform**
+
 HALF ADDER
 
 ![Screenshot 2025-04-22 220532](https://github.com/user-attachments/assets/605ae841-b602-4937-a7d4-5d6119cdcfbe)
